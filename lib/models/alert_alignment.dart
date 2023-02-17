@@ -1,0 +1,4 @@
+enum AlertAlignment {
+  top,
+  bottom
+}
